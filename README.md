@@ -1,6 +1,6 @@
 # Gestión de Estudiantes por Asignatura
 
-![C#](https://img.shields.io/badge/C%23-.NET%208.0-blueviolet)
+![C#](https://img.shields.io/badge/C%23-.NET%209.0-blueviolet)
 ![Architecture](https://img.shields.io/badge/Architecture-Clean%20%2F%20Onion-blue)
 ![Academic](https://img.shields.io/badge/Status-Penultimate%20Semester%20Project-orange)
 
